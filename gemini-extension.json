@@ -1,0 +1,8 @@
+{
+  "name": "flowra",
+  "version": "1.0.2",
+  "description": "One MCP server for your apps' tools and your own custom tools, plus hosted AI agents and workflows with approval gates and a run ledger.",
+  "mcpServers": {
+    "flowra": { "httpUrl": "https://mcp.flowra.dev/mcp" }
+  }
+}
